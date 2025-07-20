@@ -104,7 +104,7 @@ const App = () => {
         title="🛣️ RoadSense Dashboard"
         description="A data-driven app for uploading, analyzing, and visualizing road condition data (CSV, Charts, MongoDB)."
         github="https://github.com/stacknerdjoe/roadsense-dashboard"
-        live="https://roadsense-dashboard-pbuf.vercel.app"
+        live="https://roadsense-dashboard.vercel.app"
       />
     </div>
 
