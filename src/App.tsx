@@ -49,6 +49,16 @@ const App = () => {
             🚀 Featured Projects
           </h2>
 
+          <div data-aos="fade-up" data-aos-delay="200">
+          <ProjectCard
+  title="🎬 NaijaMart Movie Review App"
+  description="Fullstack MERN app for browsing, rating, and managing movies. Features admin panel, role-based access, Cloudinary integration, and email verification."
+  github="https://github.com/stacknerdjoe/naija-mart-app"
+  live=''// to be added soon
+/>
+</div>
+
+
           <div data-aos="fade-up">
             <ProjectCard
               title="🛣️ RoadSense Dashboard"
@@ -79,6 +89,13 @@ const App = () => {
             <br />
             🧑‍💻 GitHub:{" "}
             <a href="https://github.com/stacknerdjoe">github.com/stacknerdjoe</a>
+            <br />
+            🔗 LinkedIn: {" "}
+            <a href="https://www.linkedin.com/in/joseph-onyenemerem-946201b6" 
+            target="_blank"
+            rel="noopener noreferrer"
+            >www.linkedin.com/in/joseph-onyenemerem-946201b6e</a>
+            
           </p>
         </section>
 
